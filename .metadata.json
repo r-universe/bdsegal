@@ -1,0 +1,10 @@
+[
+  {
+    "package": "exceedProb",
+    "oncran": true
+  },
+  {
+    "package": "matrixStrucTest",
+    "oncran": true
+  }
+]
